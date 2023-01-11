@@ -1,7 +1,9 @@
-body {background-color: rgb(168, 100, 23);
+body {
+   background-color: rgb(168, 100, 23);
 }
 
-hr{background-color: none;
+hr{
+   background-color: none;
    border-style: none;
    border-top-style: dotted;
    border-color: #9c753d;
